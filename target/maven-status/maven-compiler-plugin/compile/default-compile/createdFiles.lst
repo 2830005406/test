@@ -1,0 +1,6 @@
+xyz\service\UserServiceImpl.class
+xyz\controller\UserController.class
+xyz\dao\UserDAO.class
+xyz\entity\User.class
+xyz\service\UserService.class
+xyz\Application.class
